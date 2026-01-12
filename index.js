@@ -76,7 +76,7 @@ client.on('message', async msg => {
                 `🛠️ *Workshops* \n` +
                 `📞 *Contact* \n\n` +
                 `_Type one of the options above to get details._\n\n` +
-                `🚀 Powered by *novustech.in*`;
+                `🚀 Powered by *https://www.novustech.in/*`;
 
             await client.sendMessage(msg.from, menu);
         }
