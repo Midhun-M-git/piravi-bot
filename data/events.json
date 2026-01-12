@@ -1,0 +1,44 @@
+{
+    "event_name": "PIRAVI 2k26",
+    "description": "A two-day flagship technical festival organized by IEDC ASET. Includes workshops, food fest, proshows, and more.",
+    "dates": [
+        "February 14, 2026",
+        "February 15, 2026"
+    ],
+    "location": "Ahalia School of Engineering and Technology",
+    "ticket_price": "₹850 (Includes workshops, food, proshow, accommodation)",
+    "workshops": [
+        {
+            "id": "hacking",
+            "title": "Ethical Hacking Workshop",
+            "description": "Hosted by Offenso Academy. (Day 1)"
+        },
+        {
+            "id": "3dprinting",
+            "title": "3D Printing Workshop",
+            "description": "Day 2 (10:00 AM - 01:00 PM)"
+        },
+        {
+            "id": "robotics",
+            "title": "Robotics Workshop",
+            "description": "Day 2 (02:30 PM - 05:30 PM)"
+        },
+        {
+            "id": "codexpress",
+            "title": "Codexpress (Mini Hackathon)",
+            "description": "Day 2 (10:00 AM). 4-hour challenge."
+        },
+        {
+            "id": "ai_film",
+            "title": "AI Short Film Contest",
+            "description": "Day 2 (02:30 PM)"
+        }
+    ],
+    "contact": [
+        "Ms. Lakshmy Suresh: +91 9446293173",
+        "Mr. Vipindas: +91 8921507351",
+        "Mr. Vishnu VS: +91 8778944493",
+        "Ms. Saniya Fathima A: +91 8714299985"
+    ],
+    "website": "https://www.piravi.online/"
+}
